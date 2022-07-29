@@ -1,0 +1,15 @@
+.container {
+    margin: 0px 150px;
+}
+#btn-top {
+    position: fixed;
+    bottom: 50px;
+    right: 50px;
+    display: none;
+}
+#btn-top.visible {
+    position: fixed;
+    bottom: 50px;
+    right: 50px;
+    display: block;
+}
