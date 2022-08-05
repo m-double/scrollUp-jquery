@@ -5,7 +5,7 @@ scroll up button jquery
 ![Captura1](https://user-images.githubusercontent.com/56656263/181730734-d772462f-8078-4d70-90a3-b46df061b489.PNG)
 
 ## html
-```
+``` html
         <img src="img/bt-up.svg" id="btn-top" alt="scrollUp">
         <script src="https://code.jquery.com/jquery-3.6.0.min.js"
         integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
@@ -52,7 +52,7 @@ scroll up button jquery
 }
 ```
 ## svg
-```
+``` svg
 <svg xmlns="http://www.w3.org/2000/svg" enable-background="new 0 0 24 24" height="50px" viewBox="0 0 24 24" width="50px" fill="#000000">
 <g>
 <rect fill="none" height="24" width="24"/>
